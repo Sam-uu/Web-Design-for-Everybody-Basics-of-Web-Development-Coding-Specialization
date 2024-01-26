@@ -18,6 +18,10 @@ header {
     border-radius: 10px;
 }
 
+h1 {
+    color: yellow!important;
+}
+
 nav {
     backdrop-filter: blur(8px);
     background-color: rgb(255,255,255,0.3);
@@ -42,6 +46,10 @@ a {
 }
 nav a {
     color: black;
+}
+
+footer a {
+    color: yellow;
 }
 
 main {
