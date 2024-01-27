@@ -93,3 +93,11 @@ h1 {
 p {
     line-height: 1.5;
 }
+
+.grid {
+    display: grid;
+    grid-template-columns: 40% 40%;
+    justify-content: space-between;
+    align-items: center;
+    row-gap: 20px;
+}
